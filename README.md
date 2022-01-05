@@ -1,6 +1,6 @@
 # Vue3 template with Webpack
 
-## Specs
+## Specification
 * Vue3
 * Webpack
 * SCSS
